@@ -1,4 +1,4 @@
-package Opgave03;
+package opgave03;
 
 public class Heltal {
     public static void main(String[] args) {
